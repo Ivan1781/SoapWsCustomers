@@ -41,6 +41,7 @@ public class ServiceCustomerImpl implements ServiceCustomer {
 
     @Override
     public String getSurname(int id) {
+        String a = this.findCustomer("dddd");
         return null;
     }
 
