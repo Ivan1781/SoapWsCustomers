@@ -8,7 +8,7 @@ import java.util.List;
 public class ServiceCustomerImpl implements ServiceCustomer {
     private String url = "jdbc:mysql://localhost/human?serverTimezone=UTC&useSSL=false";
     private String name = "root";
-    private String password = "ironman2019";
+    private String password = *****;
 
     protected String getUrl() {
         return url;
